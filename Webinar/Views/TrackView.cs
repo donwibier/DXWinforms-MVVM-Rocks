@@ -17,6 +17,7 @@ namespace Webinar.Views
         public TrackView()
         {
             InitializeComponent();
+			
         }
 
         protected override void OnLoad(EventArgs e)
